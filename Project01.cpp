@@ -18,7 +18,7 @@ int main()
 {
     string custname;
     double a,b,c,d,discount,tax,totalsale,discountsale,payment;
-    cout << "Enter Customer Name - Changes Made By Jyothi Pandu - New  : ";
+    cout << "Enter Customer Name - Changes Made By  Sadagopan - New  : ";
     cin >> custname;
     cout << "Enter Product A price  : ";
     cin >> a;
@@ -31,8 +31,8 @@ int main()
     cout << "Enter the Discount in %: ";
     cin >> discount;
     
-    cout << "Adding New Line of GITHUB demo - Changes Made By Jyothi Pandu - New";
-    cout << "Adding new line by JOE - Changes Made By Jyothi Pandu - New"
+    cout << "Adding New Line of GITHUB demo - Changes Made By Sadagopan - New";
+    cout << "Adding new line by JOE - Changes Made By Sadagopan - New"
     
     totalsale = a+b+c+d;
     discountsale = totalsale - totalsale * (discount / 100);
