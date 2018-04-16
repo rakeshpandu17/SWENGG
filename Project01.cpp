@@ -31,7 +31,7 @@ int main()
     cout << "Enter the Discount in %: ";
     cin >> discount;
     
-    
+    cout << "Adding New Line of GITHUB demo";
     
     totalsale = a+b+c+d;
     discountsale = totalsale - totalsale * (discount / 100);
